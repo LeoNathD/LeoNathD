@@ -70,6 +70,37 @@
 
 ---
 
+### 🎮 Pokémon Companions
+
+<div align="center">
+
+  <!-- Row 1: The Classic & Tactical Squad -->
+  <a href="https://github.com/LeoNathD">
+    <img src="https://play.pokemonshowdown.com/sprites/ani/squirtle.gif" alt="Squirtle" height="55" />
+    <img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" alt="Gengar" height="58" />
+    <img src="https://play.pokemonshowdown.com/sprites/ani/lapras.gif" alt="Lapras" height="60" />
+    <img src="https://play.pokemonshowdown.com/sprites/ani/snorlax.gif" alt="Snorlax" height="62" />
+    <img src="https://play.pokemonshowdown.com/sprites/ani/chandelure.gif" alt="Chandelure" height="58" />
+    <img src="https://play.pokemonshowdown.com/sprites/ani/volcarona.gif" alt="Volcarona" height="62" />
+    <img src="https://play.pokemonshowdown.com/sprites/ani/decidueye.gif" alt="Decidueye" height="65" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Row 2: The Powerhouses & Legends -->
+  <a href="https://github.com/LeoNathD">
+    <img src="https://play.pokemonshowdown.com/sprites/ani/golisopod.gif" alt="Golisopod" height="65" />
+    <img src="https://play.pokemonshowdown.com/sprites/ani/kingambit.gif" alt="Kingambit" height="65" />
+    <img src="https://play.pokemonshowdown.com/sprites/ani/darkrai.gif" alt="Darkrai" height="65" />
+    <img src="https://play.pokemonshowdown.com/sprites/ani/regigigas.gif" alt="Regigigas" height="70" />
+    <img src="https://play.pokemonshowdown.com/sprites/ani/lugia.gif" alt="Lugia" height="75" />
+    <img src="https://play.pokemonshowdown.com/sprites/ani/rayquaza.gif" alt="Rayquaza" height="80" />
+  </a>
+
+</div>
+
+---
+
 <div align="center">
   <sub>⭐️ From <a href="https://github.com/LeoNathD">LeoNathD</a> — Always open to exciting collaborations and opportunities!</sub>
 </div>
