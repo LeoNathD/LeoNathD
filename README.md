@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Dynamic Typing Header -->
+    <!-- Dynamic Typing Header -->
   <a href="https://github.com/LeoNathD">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Nathanael+Dewanto;Full-Stack+Developer;Building+Scalable+Web%2C+Desktop+%26+Mobile+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Nathanael+Dewanto;Full-Stack+Developer;Building+Scalable+Web%2C+Desktop+%26+Mobile+Apps" alt="Typing SVG" />
   </a>
 
   <p align="center">
