@@ -61,12 +61,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoNathD&theme=github_dark" alt="GitHub Summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoNathD&theme=github_dark" alt="GitHub Summary" />
 </div>
 
 <div align="center">
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoNathD&theme=github_dark" alt="Top Languages by Repo" />
-  <img height="165em" src="https://streak-stats.demolab.com?user=LeoNathD&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoNathD&theme=github_dark" alt="Top Languages by Repo" />
+  <img width="57.5%" src="https://streak-stats.demolab.com?user=LeoNathD&theme=github-dark-blue&card_width=480&card_height=200&border_radius=5" alt="GitHub Streak" />
 </div>
 
 ---
